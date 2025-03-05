@@ -1,0 +1,29 @@
+body{
+    background-color:pink;
+    height: 100%;
+}
+
+.global-container{
+    height: 100vh;
+    display:flex;
+    align-items:center;
+    justify-self: center;
+    color:palevioletred;
+}
+
+.login-form{
+    width: 400px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+button{
+    width: 100% ;
+    padding: 5px;
+    margin-top: 10px;
+    background: palevioletred;
+    border-radius: 5px; ;
+    border: 1px solid palevioletred;
+    color: white;
+    
+}
